@@ -1,2 +1,3 @@
 # code-thefuture.github.io
-Our Website
+
+[Visit](https://code-thefuture.github.io/)  Our Website
